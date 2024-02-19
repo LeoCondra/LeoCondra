@@ -7,7 +7,7 @@
 <h3><ul>
 <P>- I am a mechatronics technician, graduated from ETEC Jorgestreet</P>
 <P>- I'm learning HTML, Python, JavaScript, CSS</P>
-<p>- I also know the basics of C#, C++, Arduino(basicaly C++) and Assemble (yeah... i know)</p>
+<p>- I also know the basics of C#, C++, Arduino and Assembly
 <p>- I use Visual Studio Code</p>
 <p>- I know how to use Photoshop and OBS Studio </p>
 <p>- I can speak both English and Portuguese</p>
@@ -17,7 +17,6 @@
 <p>Playing Games</p>
 <p>Drawing</p>
 <p>Cats</p>
-<p>DMing TTRPGS</p>
 </ol>
 </ul></h3>
 
