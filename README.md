@@ -10,7 +10,7 @@
 <p>- I know how to program in Java, HTML, Python, CSS and SQL</p>
 <p>- I also know the basics of C#, C++, Arduino and Assembly</p>
 <p>- I use Visual Studio Code</p>
-<p>- I know how to use Photoshop and OBS Studio </p>
+<p>- I know how to use Photoshop, Excel and OBS Studio </p>
 <p>- I can speak both English and Portuguese and I'm currently learning Japanese</p>
 <p>- My cellphone: +55 11 963507671</p>
 <h4>Some things i like</h4>
