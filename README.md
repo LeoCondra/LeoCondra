@@ -6,8 +6,8 @@
 <h2>About me:</h2>
 <h3><ul>
 <P>- I am a mechatronics technician, graduated from ETEC Jorgestreet</P>
-<P>- I'm currently studying JavaScript, Dart and Flutter</P>
-<p>- I know how to program in Java, HTML, Python, CSS and SQL</p>
+<P>- I'm currently studying JavaScript</P>
+<p>- I know how to program in Dart, Flutter, Java, HTML, Python, CSS and SQL</p>
 <p>- I also know the basics of C#, C++, Arduino and Assembly</p>
 <p>- I use Visual Studio Code</p>
 <p>- I know how to use Photoshop, Excel and OBS Studio </p>
