@@ -1,4 +1,4 @@
-## Hey there! I'm Leonardo Condrasisen <img src="https://user-images.githubusercontent.com/your-image.gif" height="40">
+##  I'm Leonardo Condrasisen, or just Leo <img src="https://user-images.githubusercontent.com/your-image.gif" height="40">
 
 <table>
   <tr>
