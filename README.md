@@ -1,4 +1,8 @@
-##  I'm Leonardo Condrasisen, or just Leo <img src="https://user-images.githubusercontent.com/your-image.gif" height="40">
+## Hi, I'm Leonardo Condrasisen
+
+**Computer Science Student | Aspiring Software Developer | Cloud & DevOps Enthusiast**
+
+---
 
 <table>
   <tr>
@@ -15,7 +19,7 @@
 
 ---
 
-### Languages and Tools Learned
+### 🛠️ Skills & Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -26,22 +30,22 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
 ---
 
-###  About me
-- I'm a Computer Science student at [Instituto Mauá de Tecnologia](https://maua.br/) (2023–2027).  
-- Passionate about software development, cloud computing, DevOps, and system engineering.  
-- Experienced in academic projects using Java, Python, Flutter, Dart, and SQL/NoSQL databases.  
-- Knowledgeable in Agile methodologies (Scrum, Kanban), version control with Git, and OOP best practices.  
-- Mechatronics technician background, with hands-on experience in electronics, Arduino, and automation projects.  
-- I enjoy gaming, drawing, and spending time with cats 🐱.  
+### 📌 About Me
+- Studying **Computer Science** at [Instituto Mauá de Tecnologia](https://maua.br/).  
+- Mechatronics technician with experience in electronics, automation, and programming.  
+- Focused on **software development, cloud computing, DevOps, and system architecture**.  
+- Proficient in **Java, Python, Dart/Flutter, JavaScript, SQL**, and other technologies.  
+- Fluent in **Portuguese and English**; basic Spanish.  
 
 ---
 
-###  Connect with me!
-
+### 🔗 Connect with Me
 <div>
   <a href="https://www.linkedin.com/in/leocondra/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
